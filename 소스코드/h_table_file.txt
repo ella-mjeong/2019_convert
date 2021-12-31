@@ -1,0 +1,7 @@
+printf #include <stdio.h>
+scanf #include <stdio.h>
+exit #include <stdlib.h>
+fopen #include <stdio.h>
+fputs #include <stdio.h>
+fflush #include <stdio.h>
+fclose #include <stdio.h>
